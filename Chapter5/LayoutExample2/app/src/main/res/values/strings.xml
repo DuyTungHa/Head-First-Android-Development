@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Layout Example 2</string>
+    <string name="question">How do you like your tea served?</string>
+    <string name="hot">Hot</string>
+    <string name="cold">Cold</string>
+    <string name="milk">Milk</string>
+    <string name="sugar">Sugar</string>
+    <string name="lemon">Lemon</string>
+</resources>
